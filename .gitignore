@@ -18,6 +18,7 @@ data/processed/*
 results/*
 !results/.gitkeep
 *.log
+*.pkl
 
 # Final archives (create locally, don't commit)
 *.zip
